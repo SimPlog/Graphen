@@ -1,3 +1,8 @@
+package model;
+
+import model.List;
+import model.Vertex;
+
 /**
  * <p>
  * Materialien zu den zentralen NRW-Abiturpruefungen im Fach Informatik ab 2018

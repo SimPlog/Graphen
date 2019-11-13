@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package graphen;
+package main;
 
 /**
  *
  * @author Guest
  */
-public class Graphen {
+public class Mainklasse {
 
     /**
      * @param args the command line arguments
@@ -17,5 +17,7 @@ public class Graphen {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    
+    
     
 }
